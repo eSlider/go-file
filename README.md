@@ -1,5 +1,11 @@
 # go-file
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/eslider/go-file.svg)](https://pkg.go.dev/github.com/eslider/go-file)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Go](https://img.shields.io/badge/Go-1.22+-00ADD8.svg)](https://go.dev)
+[![Latest Release](https://img.shields.io/github/v/tag/eSlider/go-file?sort=semver&label=release)](https://github.com/eSlider/go-file/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/eSlider/go-file?style=social)](https://github.com/eSlider/go-file/stargazers)
+
 Go library providing cross-platform file system utilities: path resolution, existence checks, directory creation, and writability testing.
 
 ## Installation
